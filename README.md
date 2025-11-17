@@ -1,18 +1,16 @@
-# Hi there 👋, I'm Francisco Madrid
+# Hi there 👋.
 
-I enjoy learning about new technologies and tackling new challenges.  
-I’m particularly interested in AI applications and I love advances in robotics.
-
----
-
-### 📫 Contact Me
-<div align="left">
+I'm Francisco Madrid 
+<span align="left" >
   <a href="https://www.linkedin.com/in/francisco-madrid-8906521b1" target="_blank">
     <img width="24px" style="display: inline-block; margin-right: 10px;" src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
   </a>
 </div>
+ 
+I enjoy learning about new technologies and tackling new challenges.  
+I’m particularly interested in AI applications and I love advances in robotics.
 
----
+
 
 ### 🚀 Core Stack
 <div align="left">
